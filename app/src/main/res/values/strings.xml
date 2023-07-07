@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Movie Town</string>
+    <string name="app_title">Movies Town</string>
+    <string name="home">Home</string>
+    <string name="popular">Popular</string>
+    <string name="top_rate">Top Rated</string>
+    <string name="up_coming">Up-Coming</string>
+    <string name="close_the_app">Close the App</string>
+    <string name="do_you_want_to_exit_the_app">Do you want to exit the App?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="search_rating">Rating :</string>
 </resources>
